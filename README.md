@@ -49,3 +49,11 @@
 2024-10-04 02:05:50.065  2555-2555  AudioService            system_server                        D  enter startAudioVisual with android.intent.action.SCREEN_OFF
 2024-10-04 02:05:50.065  2555-2555  AudioService            system_server                        D  startAudioVisual exit, device not support
 ```
+
+# 乞讨
+
+- 币安：`860336553`
+- EVM：`0x8860cf4f8582DeC70D18C063B1014aA23437cEe6`
+- Tron：`TNQJscQXsCrRKeLHFyrt4ySLgWdUAtJyGS`
+- Doge：`DTqeHZWRT4erfmoafPFWi35kLryd2QiuFp`
+- Ton：`UQAE0wyWYYSYHS0jyIch-z_SWfhQDb4niRht4RH82THF-VnY`
