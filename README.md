@@ -2,7 +2,7 @@
 
 ![Fuqiuluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuqiuluo)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuqiuluo&size_weight=0.5&count_weight=0.5)
 
 [<img src="https://api.gitsponsors.com/api/badge/img?id=588448817" height="20">](https://api.gitsponsors.com/api/badge/link?p=PY2bORDpy0y7H0WZshUTAl/Obd9Y6ERtFLcsz/oRrFtJZLGQVmAqFYMBIOMOf0G/dv46Ij+K3wqYyh6gie7kNIvB4b7bEtgIB0GzItirWmXGULhGLJ5El+Cuelt0RJE5wV96l7IP2daK8fJ6WwJpzg==)
 
