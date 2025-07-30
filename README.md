@@ -2,7 +2,6 @@
 
 ![Fuqiuluo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuqiuluo&theme=github)
 ![Top Lngs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuqiuluo&theme=github)
-![Top Langs](https://api.githubtrends.io/user/svg/fuqiuluo/langs)
 
 # Brain Logs
 
