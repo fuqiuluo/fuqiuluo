@@ -1,6 +1,6 @@
 # Github Stats
 
-![Fuqiuluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuqiuluo)
+![Fuqiuluo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuqiuluo&theme=github)
 
 ![Top Langs](https://api.githubtrends.io/user/svg/fuqiuluo/langs)
 
