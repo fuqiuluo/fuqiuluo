@@ -4,6 +4,8 @@
 
 ![Top Langs](https://api.githubtrends.io/user/svg/fuqiuluo/langs)
 
+![Top Lngs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuqiuluo&theme=github)
+
 # Brain Logs
 
 ```log
